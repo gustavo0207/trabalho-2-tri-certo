@@ -24,3 +24,12 @@ body {
 .container {
     height: 100vh;
 }
+.botao {
+    background-color: #ffffff;
+    border: #00030C;
+    color: #0044ff;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
